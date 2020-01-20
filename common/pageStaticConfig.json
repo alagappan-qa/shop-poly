@@ -1,0 +1,19 @@
+{
+	"indexPage":
+	{
+	
+		"pageURL":"https://shop.polymer-project.org/",
+		"pageTitle":"Home - SHOP",
+	"searchTextValid":"dress",
+	"searchTextValidSort":"summer",
+	"searchTextInvalid":"invalid",
+	"noResult":"0 results have been found.",
+	"cartEmpty":"Your shopping cart is empty.",
+	"sortValuePriceLow":"price:asc",
+	"createAccountError":"Invalid email address.",
+	"invalidEmailAddress":"emailwithoutaddress",
+	"email":"rdwadmin@riversand.com",
+	"password":"rdwadmin",
+	"loginWithinvalidCreds":"Invalid password."
+	}
+}
