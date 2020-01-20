@@ -13,7 +13,8 @@ exports.config = {
 	},
 	framework:'jasmine',
 	specs:[
-		'./specs/*.js'
+        './specs/indexPage.js'
+    //    './specs/indexPage_rename.js'
 	],
 	getPageTimeout:90000,
     allScriptsTimeout:3000000,
